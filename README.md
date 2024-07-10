@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @gurpreetk3012
-- 👀 I’m interested in:
-- Data Analytics
-- Machine Learning
-- Software Development
-- Data Structures and Algorithms
-- Exploring new technologies
+- 👀 I’m currently a student interested in Data Analytics
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
