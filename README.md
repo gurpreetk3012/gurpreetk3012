@@ -28,7 +28,7 @@
 ## 📊GitHub Stats
   ![Gurpreet's GitHub stats](https://github-readme-stats.vercel.app/api?username=gurpreetk3012&show_icons=true&theme=dracula)
 
-## Top Languages Used
+## ⚙️Top Languages Used
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gurpreetk3012&layout=compact)
 
 <!---
