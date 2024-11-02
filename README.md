@@ -29,7 +29,7 @@
   ![Gurpreet's GitHub stats](https://github-readme-stats.vercel.app/api?username=gurpreetk3012&show_icons=true&theme=dracula)
 
 ## ⚙️Top Languages Used
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gurpreetk3012&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gurpreetk3012&hide_progress=true)
 
 <!---
 gurpreetk3012/gurpreetk3012 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
