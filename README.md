@@ -3,7 +3,7 @@
 👩🏻‍💻 Student who enjoys diving deep into data analytics<br>
 👩🏻‍🎓 Studying Computer Science & Engineering with a specialization in Data Science at Gandhi Engineering College, Bhubaneswar<br>
 💭 Currently learning basic and advanced data analytics techniques<br>
-📫 Let's connect on [LinkedIn](www.linkedin.com/in/gurpreet-kaur30)
+📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/gurpreet-kaur30/)
 
 ## 💻Tech Stack 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
